@@ -3,4 +3,6 @@ mysite
 
 Test site
 
-Status: https://travis-ci.org/ernestjumbe/mysite.svg
+Status:
+
+[![Build Status](https://travis-ci.org/ernestjumbe/mysite.svg?branch=master)](https://travis-ci.org/ernestjumbe/mysite)
